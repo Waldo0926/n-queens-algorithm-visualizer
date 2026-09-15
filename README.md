@@ -1,5 +1,9 @@
 # N-Queens Algorithm Visualizer ♛
 
+[![Type](https://img.shields.io/badge/Type-Coursework-2563eb?style=for-the-badge)](#)
+[![Tech](https://img.shields.io/badge/Tech-Python-7c3aed?style=for-the-badge)](#)
+
+
 ![N-Queens project overview](docs/demo.svg)
 
 A compact Python project for **solving, comparing, and visualizing the N-Queens problem** with three different algorithmic strategies:
