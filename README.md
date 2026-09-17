@@ -14,7 +14,7 @@ A compact Python project for **solving, comparing, and visualizing the N-Queens 
 
 This repository is a cleaned and re-engineered version of an earlier university **Algorithm Design and Analysis** course project. The public version focuses on reproducibility, algorithm comparison, tests, and cross-platform execution rather than preserving the original IDE/course-submission structure.
 
-> 中文说明见 [README.zh-CN.md](README.zh-CN.md).
+**English** · [中文](README.zh-CN.md)
 
 ## Why this project?
 
