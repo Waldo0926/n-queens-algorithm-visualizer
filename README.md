@@ -3,18 +3,17 @@
 [![Type](https://img.shields.io/badge/Type-Coursework-2563eb?style=for-the-badge)](#)
 [![Tech](https://img.shields.io/badge/Tech-Python-7c3aed?style=for-the-badge)](#)
 
+**English** · [中文](README.zh-CN.md)
 
 ![N-Queens project overview](docs/demo.svg)
 
 A compact Python project for **solving, comparing, and visualizing the N-Queens problem** with three different algorithmic strategies:
 
-- **Backtracking** — depth-first search with row and diagonal constraint checks.
-- **Pruned state-space search** — encodes boards as base-`N` states and skips invalid prefix regions.
-- **Hill climbing** — heuristic local search that exposes local minima and optional random restarts.
+- **Backtracking**: depth-first search with row and diagonal constraint checks.
+- **Pruned state-space search**: encodes boards as base-`N` states and skips invalid prefix regions.
+- **Hill climbing**: heuristic local search that exposes local minima and optional random restarts.
 
 This repository is a cleaned and re-engineered version of an earlier university **Algorithm Design and Analysis** course project. The public version focuses on reproducibility, algorithm comparison, tests, and cross-platform execution rather than preserving the original IDE/course-submission structure.
-
-**English** · [中文](README.zh-CN.md)
 
 ## Why this project?
 
