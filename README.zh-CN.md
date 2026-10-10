@@ -3,8 +3,9 @@
 [![类型](https://img.shields.io/badge/%E7%B1%BB%E5%9E%8B-%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A-2563eb?style=for-the-badge)](#)
 [![技术](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF-Python-7c3aed?style=for-the-badge)](#)
 
-[English](README.md)
+[English](README.md) · **中文**
 
+![N 皇后项目概览](docs/demo.svg)
 
 这是一个整理后的 Python 算法项目，用三种不同方法解决并比较 **N-Queens / N 皇后问题**：
 
@@ -12,7 +13,7 @@
 - **剪枝状态空间搜索（Pruned state-space search）**：把棋盘编码为 N 进制状态，发现冲突前缀后直接跳过一批无效状态；
 - **爬山法（Hill Climbing）**：基于冲突数量进行局部搜索，并支持随机重启。
 
-本仓库由早期《算法设计与分析》课程设计重新整理而来。公开版没有直接保留原始作业目录，而是重新组织成更适合 GitHub 展示、复现和面试讲解的工程结构。
+本仓库由早期《算法设计与分析》课程设计重新整理而来。公开版没有直接保留原始作业目录，而是重新组织成方便复现、对比算法和写测试的工程结构。
 
 ## 快速运行
 
